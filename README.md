@@ -1,11 +1,7 @@
 ### Hi there 👋
 
-<div align="center">
-	<br>
-	<a href="https://github.com/StevenACoffman/StevenACoffman/blame/master/header.svg">
-		<img src="header.svg" width="800" height="400">
-	</a>
-	<br>
+<div align="center" class=holder>
+<img src="header.svg" width="800" height="400">
 </div>
 
 <!--
