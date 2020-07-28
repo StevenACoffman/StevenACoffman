@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div align="center" class=holder>
-<img src="https://raw.githubusercontent.com/StevenACoffman/StevenACoffman/master/header.svg" width="800" height="400" />
+<img src="https://raw.githubusercontent.com/StevenACoffman/StevenACoffman/master/header.svg" width="800" height="400" border=0 />
 </div>
 
 <!--
